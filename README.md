@@ -73,7 +73,7 @@ The threshold was restored to 5 after testing.
 
 ## AI Assistance
 I used Perplexity to help plan the project, explain Python concepts,
-and provide step-by-step development guidance. It also helped me
+and provide development guidance. It also helped me
 troubleshoot GitHub authentication and a filename mismatch.
 
 I reviewed and ran the suggested code, checked the output against
