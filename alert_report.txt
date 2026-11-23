@@ -1,0 +1,22 @@
+Login Security Alert Report
+===========================
+Source file: sample_log.csv
+Alert threshold: 5 failures per IP
+
+Summary
+-------
+Total login events: 10
+Successful logins: 3
+Failed logins: 7
+
+Failed attempts by IP address
+----------------------------
+192.0.2.20: 5
+192.0.2.30: 2
+
+Alerts
+------
+ALERT: 192.0.2.20 had 5 failed login attempts.
+
+Alerts indicate activity for review, not confirmed attacks.
+Failures are counted across the entire file, not a time window.
